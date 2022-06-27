@@ -1,2 +1,2 @@
 # CouchStuff
-Parts for working with Couch
+Parts for working with MongoDB
